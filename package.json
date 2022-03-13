@@ -1,0 +1,21 @@
+{ "name": "youtube_find_vertical_video_examples",
+  "version": "0.1.0",
+  "description": "Find examples of horizontal (wider than high) and vertical videos (higher than wide) on YouTube.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/youtube_find_vertical_video_examples/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/youtube_find_vertical_video_examples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/youtube_find_vertical_video_examples/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
